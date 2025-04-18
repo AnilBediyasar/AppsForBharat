@@ -1,0 +1,21 @@
+Store ID,Total Visits,Transactions,Conversion Rate (%),Type,SKU ID
+Store_39,9213,6124,66.47,Top-Performing Store,
+Store_49,11032,7129,64.62,Top-Performing Store,
+Store_44,8482,5356,63.15,Top-Performing Store,
+Store_37,9458,5937,62.77,Top-Performing Store,
+Store_47,9753,6081,62.35,Top-Performing Store,
+Store_12,8698,3310,38.05,Underperforming Store,
+Store_30,10659,4043,37.93,Underperforming Store,
+Store_36,10149,3819,37.63,Underperforming Store,
+Store_14,12804,4674,36.5,Underperforming Store,
+Store_15,8922,3090,34.63,Underperforming Store,
+Store_21,538,537,99.81,Top-Performing SKU,SKU_2
+Store_28,734,732,99.73,Top-Performing SKU,SKU_1
+Store_2,886,883,99.66,Top-Performing SKU,SKU_3
+Store_37,647,644,99.54,Top-Performing SKU,SKU_5
+Store_15,194,193,99.48,Top-Performing SKU,SKU_2
+Store_16,874,0,0.0,Underperforming SKU,SKU_12
+Store_29,846,0,0.0,Underperforming SKU,SKU_19
+Store_9,464,0,0.0,Underperforming SKU,SKU_5
+Store_10,927,0,0.0,Underperforming SKU,SKU_10
+Store_20,66,0,0.0,Underperforming SKU,SKU_9
